@@ -12,13 +12,13 @@ City's methods :
 - `allPossiblePaths(destination, toCreateRoutes)`
 - `getName()`
 - `getRoads()`
-- getRoutesTo(destination)
+- `getRoutesTo(destination)`
 
 Road's methods :
 
-- getLength()
-- getCities()
-- getRoadsMap(set_of_cities) (static function)
+- `getLength()`
+- `getCities()`
+- `getRoadsMap(set_of_cities) (static function)`
 
 
 This project also leverages defensive programming.<br />
