@@ -8,10 +8,10 @@ Road : This class (Road) works as a blueprint to create roads (objects) in a net
 
 City's methods :
 
-- addRoad(road)
-- allPossiblePaths(destination, toCreateRoutes)
-- getName()
-- getRoads()
+- `addRoad(road)`
+- `allPossiblePaths(destination, toCreateRoutes)`
+- `getName()`
+- `getRoads()`
 - getRoutesTo(destination)
 
 Road's methods :
